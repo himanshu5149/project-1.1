@@ -1,0 +1,6 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Full URL to your subdomain's sitemap
+Sitemap: https://vercel.com/himanshu5149s-projects/project-1-1
